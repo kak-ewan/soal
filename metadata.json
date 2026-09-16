@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Ngide Soal N Version ARAB",
+  "description": "Generator Soal Ujian berbasis Kurikulum Pembelajaran Mendalam Terbaru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
